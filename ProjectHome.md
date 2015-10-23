@@ -1,0 +1,1 @@
+Open Source Carrier Grade Middleware refers to www.openclovis.org
